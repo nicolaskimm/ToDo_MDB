@@ -1,0 +1,8 @@
+.singleItem {
+    list-style: none;
+    display: block;
+}
+
+.singleItem_text {
+    display: inline-block;
+}

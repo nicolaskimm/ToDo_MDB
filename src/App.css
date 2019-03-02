@@ -1,0 +1,29 @@
+.task_board {
+  box-sizing: border-box;
+  text-align: center;
+  width: 60vw;
+  min-height: 70vh;
+  border: 2px solid #e0d7d7;
+  margin: 15px 0;
+}
+
+.task_board-title {
+  margin: 18px 0;
+  font-size: 45px;
+}
+
+.task_board-buttonSection > button {
+  margin: 10px 10px 20px;
+  width: 70px;
+  height: 25px;
+  background: none;
+  border: none;
+  border: 1px solid #d4d4d4;
+  color: #e0d7d7;
+  outline: none;
+}
+
+.task_board-buttonSection > button:hover {
+  border: 2px solid #ffffff;
+  color: #ffffff;
+}

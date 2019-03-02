@@ -1,0 +1,9 @@
+{
+  "short_name": "ToDo",
+  "name": "ToDo App",
+  "description": "Simple App to managage your everydat tasks",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#d4d4d4",
+  "background_color": "#000066"
+}

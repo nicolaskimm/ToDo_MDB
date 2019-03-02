@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #996633 0%, #000066 100%);
+  width: 100%;
+  min-height: 100vh;
+  font-family: 'Raleway', sans-serif;
+  color: #e0d7d7
+}
+
+#app_root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
