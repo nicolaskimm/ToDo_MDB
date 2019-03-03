@@ -33,9 +33,9 @@ class App extends Component {
 
   render() {
     return (
-      <div className='task_board'>
-        <h1 className='task_board-title'>ToDo Board</h1>
-        <div className='task_board-buttonSection'>
+      <div className='task-board'>
+        <h1 className='task-board_title'>ToDo Board</h1>
+        <div className='task-board_buttonSection'>
           <button onClick={this.addTask.bind(this)}>add</button>
           <button onClick={this.removeLastTask.bind(this)}>remove</button>
           <button onClick={this.clearAllTasks.bind(this)}>clear</button>

@@ -5,9 +5,12 @@ const TodoList = (props) => {
     return (
         props.taskArray.map(item => {
             return (
-                <li className='singleItem'key={item.id}>
-                    <p className='singleItem_text'>{item.text}</p>
-                </li>
+                <ul className='task-board_list'>
+                    <li className='task-board_list_singleItem'key={item.id}>
+                        <p className='task-board_list_singleItem-text'>{item.text}</p>
+                    </li>
+                </ul>
+                
             )
         }) 
     )

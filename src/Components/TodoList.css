@@ -1,8 +1,12 @@
-.singleItem {
+.task-board_list {
+    font-size: 20px;
+}
+
+.task-board_list_singleItem {
     list-style: none;
     display: block;
 }
 
-.singleItem_text {
+.task-board_list_singleItem_text {
     display: inline-block;
 }
