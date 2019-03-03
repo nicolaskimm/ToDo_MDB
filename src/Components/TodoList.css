@@ -1,12 +1,9 @@
-.task-board_list {
-    font-size: 20px;
-}
-
 .task-board_list_singleItem {
     list-style: none;
-    display: block;
+    text-align: center;
 }
 
-.task-board_list_singleItem_text {
-    display: inline-block;
+.task-board_list_singleItem-text {
+    margin: 0 0 15px;
 }
+
