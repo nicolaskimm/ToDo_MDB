@@ -40,7 +40,9 @@ class App extends Component {
           <button onClick={this.removeLastTask.bind(this)}>remove</button>
           <button onClick={this.clearAllTasks.bind(this)}>clear</button>
         </div>
-        <TodoList taskArray={this.state.tasks} />
+        <ul className='task-board_list'>
+          <TodoList taskArray={this.state.tasks} />
+        </ul>
       </div>
     );
   }
