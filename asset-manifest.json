@@ -1,13 +1,13 @@
 {
-  "main.css": "/todo_MDB/static/css/main.221102e9.chunk.css",
-  "main.js": "/todo_MDB/static/js/main.e12b0143.chunk.js",
-  "main.js.map": "/todo_MDB/static/js/main.e12b0143.chunk.js.map",
+  "main.css": "/todo_MDB/static/css/main.26919141.chunk.css",
+  "main.js": "/todo_MDB/static/js/main.16e4f96c.chunk.js",
+  "main.js.map": "/todo_MDB/static/js/main.16e4f96c.chunk.js.map",
   "runtime~main.js": "/todo_MDB/static/js/runtime~main.baeea33d.js",
   "runtime~main.js.map": "/todo_MDB/static/js/runtime~main.baeea33d.js.map",
   "static/js/2.a080abdb.chunk.js": "/todo_MDB/static/js/2.a080abdb.chunk.js",
   "static/js/2.a080abdb.chunk.js.map": "/todo_MDB/static/js/2.a080abdb.chunk.js.map",
   "index.html": "/todo_MDB/index.html",
-  "precache-manifest.bf328eb8dfde2703f26793b3c4f4174b.js": "/todo_MDB/precache-manifest.bf328eb8dfde2703f26793b3c4f4174b.js",
+  "precache-manifest.394e259aba4cc98529f50e4edfd3719f.js": "/todo_MDB/precache-manifest.394e259aba4cc98529f50e4edfd3719f.js",
   "service-worker.js": "/todo_MDB/service-worker.js",
-  "static/css/main.221102e9.chunk.css.map": "/todo_MDB/static/css/main.221102e9.chunk.css.map"
+  "static/css/main.26919141.chunk.css.map": "/todo_MDB/static/css/main.26919141.chunk.css.map"
 }
