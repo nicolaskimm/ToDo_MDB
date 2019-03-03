@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/todo_MDB/static/js/runtime~main.baeea33d.js"
   },
   {
-    "revision": "ce1dd19e16e8e7467af6",
-    "url": "/todo_MDB/static/js/main.ce1dd19e.chunk.js"
+    "revision": "ecb060ef12adba70acd0",
+    "url": "/todo_MDB/static/js/main.ecb060ef.chunk.js"
   },
   {
     "revision": "a080abdb6f85b3109260",
     "url": "/todo_MDB/static/js/2.a080abdb.chunk.js"
   },
   {
-    "revision": "ce1dd19e16e8e7467af6",
-    "url": "/todo_MDB/static/css/main.dd5d0a0b.chunk.css"
+    "revision": "ecb060ef12adba70acd0",
+    "url": "/todo_MDB/static/css/main.60d70eee.chunk.css"
   },
   {
-    "revision": "35e4797b6b39fecfa0dad61fe5b0aa06",
+    "revision": "c8c1e75ccb57241e0aa9db39b794121e",
     "url": "/todo_MDB/index.html"
   }
 ];
